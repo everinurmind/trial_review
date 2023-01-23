@@ -115,8 +115,7 @@ The project has not been deployed yet.
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [developing personal portfolio] **[Adding more pages]**
-- [will make own design for portfolio] **[Creating own design]**
+- [training review skills] **[Leaving Review]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
