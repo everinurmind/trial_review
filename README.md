@@ -2,10 +2,7 @@
 
 <div align="center">
 
-  <img src="images\testlogo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
-  <h3><b>ReadMe</b></h3>
+<h3><b>ReadMe</b></h3>
 
 </div>
 
