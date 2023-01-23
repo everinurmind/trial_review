@@ -16,7 +16,7 @@ Author of this Code:
 
 **Mathías Wismann**
 
-- GitHub: [@everinurmind](https://github.com/mwismann)
+- GitHub: [@mwismann](https://github.com/mwismann)
 
 # 📗 Table of Contents
 
